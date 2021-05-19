@@ -45,3 +45,5 @@
 # res = (10 + 2) / (5 - 3)
 #
 # print(res)
+
+print("Hello");
